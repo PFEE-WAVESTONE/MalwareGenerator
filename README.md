@@ -9,7 +9,6 @@
 [Victor Simonin](https://github.com/Bictole)\
 [Alexandre Lemonnier](https://github.com/Alex-Leme)\
 [Antoine Zellmeyer](https://github.com/Pythyu)\
-[Alexandre Poignant](https://github.com/LaChevre)\
 [Maxence Plantard](https://github.com/Wandear69)
 
 ---
